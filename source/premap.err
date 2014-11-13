@@ -1,0 +1,34 @@
+premap.c(411): Warning! W202: Symbol 'i' has been defined, but not referenced
+premap.c(542): Warning! W202: Symbol 'i' has been defined, but not referenced
+premap.c(1265): Warning! W202: Symbol 'tincs' has been defined, but not referenced
+premap.c(1352): Warning! W202: Symbol 'levname' has been defined, but not referenced
+premap.c(1351): Warning! W202: Symbol 'l' has been defined, but not referenced
+premap.c(1350): Warning! W202: Symbol 'j' has been defined, but not referenced
+premap.c(240): Warning! W301: No prototype found for 'kopen4load'
+premap.c(243): Warning! W301: No prototype found for 'kfilelength'
+premap.c(250): Warning! W301: No prototype found for 'allocache'
+premap.c(254): Warning! W301: No prototype found for 'kclose'
+premap.c(328): Warning! W301: No prototype found for 'loadtile'
+premap.c(252): Warning! W301: No prototype found for 'kread'
+premap.c(398): Warning! W301: No prototype found for 'krand'
+premap.c(349): Warning! W301: No prototype found for 'squarerotatetile'
+premap.c(348): Warning! W301: No prototype found for 'setviewback'
+premap.c(359): Warning! W301: No prototype found for 'flushperms'
+premap.c(363): Warning! W301: No prototype found for 'scale'
+premap.c(344): Warning! W301: No prototype found for 'drawrooms'
+premap.c(346): Warning! W301: No prototype found for 'drawmasks'
+premap.c(333): Warning! W301: No prototype found for 'clearbufbyte'
+premap.c(342): Warning! W301: No prototype found for 'setviewtotile'
+premap.c(384): Warning! W301: No prototype found for 'setview'
+premap.c(993): Warning! W301: No prototype found for 'clearview'
+premap.c(994): Warning! W301: No prototype found for 'nextpage'
+premap.c(724): Warning! W301: No prototype found for 'deletesprite'
+premap.c(1276): Warning! W301: No prototype found for 'rotatesprite'
+premap.c(1228): Warning! W301: No prototype found for 'makepalookup'
+premap.c(1324): Warning! W301: No prototype found for 'clearbuf'
+premap.c(1281): Warning! W301: No prototype found for 'gametextpal'
+premap.c(1252): Warning! W301: No prototype found for 'sendpacket'
+premap.c(1180): Warning! W301: No prototype found for 'updatesector'
+premap.c(1380): Warning! W301: No prototype found for 'loadboard'
+premap.c(1367): Warning! W301: No prototype found for 'clearsoundlocks'
+premap.c(1479): Warning! W301: No prototype found for 'flushpackets'

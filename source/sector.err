@@ -1,0 +1,27 @@
+sector.c(1012): Warning! W202: Symbol 'nexti' has been defined, but not referenced
+sector.c(1562): Warning! W202: Symbol 'nextj' has been defined, but not referenced
+sector.c(1564): Warning! W202: Symbol 's' has been defined, but not referenced
+sector.c(1561): Warning! W202: Symbol 'nceilings' has been defined, but not referenced
+sector.c(1561): Warning! W202: Symbol 'nfloors' has been defined, but not referenced
+sector.c(1867): Warning! W202: Symbol 'darkestceiling' has been defined, but not referenced
+sector.c(1867): Warning! W202: Symbol 'darkestwall' has been defined, but not referenced
+sector.c(1867): Warning! W202: Symbol 'q' has been defined, but not referenced
+sector.c(1868): Warning! W202: Symbol 'nceilings' has been defined, but not referenced
+sector.c(1869): Warning! W202: Symbol 'wal' has been defined, but not referenced
+sector.c(1868): Warning! W202: Symbol 'nfloors' has been defined, but not referenced
+sector.c(1942): Warning! W202: Symbol 'nextj' has been defined, but not referenced
+sector.c(1942): Warning! W202: Symbol 'l' has been defined, but not referenced
+sector.c(207): Warning! W301: No prototype found for 'FindDistance2D'
+sector.c(216): Warning! W301: No prototype found for 'FindDistance3D'
+sector.c(226): Warning! W301: No prototype found for 'klabs'
+sector.c(433): Warning! W301: No prototype found for 'krand'
+sector.c(716): Warning! W301: No prototype found for 'nextsectorneighborz'
+sector.c(1610): Warning! W301: No prototype found for 'getangle'
+sector.c(1597): Warning! W301: No prototype found for 'updatesector'
+sector.c(2323): Warning! W301: No prototype found for 'changespritestat'
+sector.c(2318): Warning! W301: No prototype found for 'changespritesect'
+sector.c(2446): Warning! W301: No prototype found for 'clearsoundlocks'
+sector.c(2316): Warning! W301: No prototype found for 'pushmove'
+sector.c(1955): Warning! W301: No prototype found for 'deletesprite'
+sector.c(2858): Warning! W301: No prototype found for 'testcallback'
+sector.c(2988): Warning! W301: No prototype found for 'neartag'

@@ -1,0 +1,97 @@
+game.c(367): Warning! W202: Symbol 'fp' has been defined, but not referenced
+game.c(633): Warning! W202: Symbol 'l' has been defined, but not referenced
+game.c(954): Warning! W202: Symbol 'k' has been defined, but not referenced
+game.c(1543): Warning! W202: Symbol 'c' has been defined, but not referenced
+game.c(1906): Warning! W202: Symbol 'i' has been defined, but not referenced
+game.c(1955): Warning! W202: Symbol 'i' has been defined, but not referenced
+game.c(2473): Warning! W202: Symbol 'hz' has been defined, but not referenced
+game.c(2532): Warning! W202: Symbol 'topy' has been defined, but not referenced
+game.c(2759): Warning! W202: Symbol 'tposz' has been defined, but not referenced
+game.c(2759): Warning! W202: Symbol 'thoriz' has been defined, but not referenced
+game.c(2756): Warning! W202: Symbol 'lz' has been defined, but not referenced
+game.c(2757): Warning! W202: Symbol 'tsect' has been defined, but not referenced
+game.c(2756): Warning! W202: Symbol 'hz' has been defined, but not referenced
+game.c(2759): Warning! W202: Symbol 'dy' has been defined, but not referenced
+game.c(2759): Warning! W202: Symbol 'dx' has been defined, but not referenced
+game.c(5676): Warning! W202: Symbol 'keystate' has been defined, but not referenced
+game.c(6129): Warning! W202: Symbol 'weapon' has been defined, but not referenced
+game.c(6930): Warning! W202: Symbol 'j' has been defined, but not referenced
+game.c(7278): Warning! W202: Symbol 'dafilet' has been defined, but not referenced
+game.c(7339): Warning! W201: Unreachable code
+game.c(7362): Warning! W202: Symbol 'l' has been defined, but not referenced
+game.c(7362): Warning! W202: Symbol 'k' has been defined, but not referenced
+game.c(7809): Warning! W202: Symbol 'p' has been defined, but not referenced
+game.c(8682): Warning! W202: Symbol 'r' has been defined, but not referenced
+game.c(161): Warning! W301: No prototype found for 'rotatesprite'
+game.c(378): Warning! W301: No prototype found for 'getpacket'
+game.c(339): Warning! W301: No prototype found for 'sendpacket'
+game.c(420): Warning! W301: No prototype found for 'copybufbyte'
+game.c(682): Warning! W301: No prototype found for 'computergetinput'
+game.c(935): Warning! W301: No prototype found for 'printext256'
+game.c(715): Warning! W301: No prototype found for 'klabs'
+game.c(646): Warning! W301: No prototype found for 'getoutputcirclesize'
+game.c(716): Warning! W301: No prototype found for 'ksgn'
+game.c(1304): Warning! W301: No prototype found for 'scale'
+game.c(1945): Warning! W301: No prototype found for 'kopen4load'
+game.c(2015): Warning! W301: No prototype found for 'uninitgroupfile'
+game.c(1993): Warning! W301: No prototype found for 'Shutdown'
+game.c(1962): Warning! W301: No prototype found for 'uninitmultiplayers'
+game.c(1949): Warning! W301: No prototype found for 'kclose'
+game.c(1948): Warning! W301: No prototype found for 'kread'
+game.c(1976): Warning! W301: No prototype found for 'setgamemode'
+game.c(1997): Warning! W301: No prototype found for 'setvmode'
+game.c(2252): Warning! W301: No prototype found for 'setbrightness'
+game.c(2323): Warning! W301: No prototype found for 'mulscale16'
+game.c(2355): Warning! W301: No prototype found for 'clearview'
+game.c(2163): Warning! W301: No prototype found for 'KB_GetCh'
+game.c(2437): Warning! W301: No prototype found for 'getzsofslope'
+game.c(2356): Warning! W301: No prototype found for 'drawmapview'
+game.c(2439): Warning! W301: No prototype found for 'inside'
+game.c(2400): Warning! W301: No prototype found for 'clearsoundlocks'
+game.c(2486): Warning! W301: No prototype found for 'hitscan'
+game.c(2500): Warning! W301: No prototype found for 'getangle'
+game.c(2504): Warning! W301: No prototype found for 'mulscale28'
+game.c(2512): Warning! W301: No prototype found for 'divscale16'
+game.c(2534): Warning! W301: No prototype found for 'flushperms'
+game.c(2700): Warning! W301: No prototype found for 'drawrooms'
+game.c(2702): Warning! W301: No prototype found for 'drawmasks'
+game.c(2925): Warning! W301: No prototype found for 'preparemirror'
+game.c(2949): Warning! W301: No prototype found for 'setviewback'
+game.c(2819): Warning! W301: No prototype found for 'allocache'
+game.c(2812): Warning! W301: No prototype found for 'setaspect'
+game.c(2937): Warning! W301: No prototype found for 'completemirror'
+game.c(2808): Warning! W301: No prototype found for 'divscale22'
+game.c(2820): Warning! W301: No prototype found for 'setviewtotile'
+game.c(2999): Warning! W301: No prototype found for 'insertsprite'
+game.c(3273): Warning! W301: No prototype found for 'krand'
+game.c(3186): Warning! W301: No prototype found for 'changespritestat'
+game.c(4511): Warning! W301: No prototype found for 'nextsectorneighborz'
+game.c(3272): Warning! W301: No prototype found for 'setsprite'
+game.c(4545): Warning! W301: No prototype found for 'FindDistance2D'
+game.c(3426): Warning! W301: No prototype found for 'updatesector'
+game.c(3283): Warning! W301: No prototype found for 'getceilzofslope'
+game.c(3287): Warning! W301: No prototype found for 'getflorzofslope'
+game.c(5741): Warning! W301: No prototype found for 'KB_FlushKeyBoardQueue'
+game.c(6508): Warning! W301: No prototype found for 'mulscale6'
+game.c(6141): Warning! W301: No prototype found for 'screencapture'
+game.c(6748): Warning! W301: No prototype found for 'setpackettimeout'
+game.c(6671): Warning! W301: No prototype found for 'initgroupfile'
+game.c(6313): Warning! W301: No prototype found for 'setview'
+game.c(7068): Warning! W301: No prototype found for 'kfilelength'
+game.c(6910): Warning! W301: No prototype found for 'printchrasm'
+game.c(6961): Warning! W301: No prototype found for 'PlayMusic'
+game.c(7152): Warning! W301: No prototype found for 'initengine'
+game.c(7087): Warning! W301: No prototype found for 'uninitengine'
+game.c(6943): Warning! W301: No prototype found for 'nextpage'
+game.c(7187): Warning! W301: No prototype found for 'genericmultifunction'
+game.c(7165): Warning! W301: No prototype found for 'initmultiplayers'
+game.c(7158): Warning! W301: No prototype found for 'loadpics'
+game.c(7408): Warning! W301: No prototype found for 'Z_AvailHeap'
+game.c(7469): Warning! W301: No prototype found for 'sendlogon'
+game.c(7772): Warning! W301: No prototype found for 'dfwrite'
+game.c(7872): Warning! W301: No prototype found for 'kdfread'
+game.c(8115): Warning! W301: No prototype found for 'clipmove'
+game.c(8331): Warning! W301: No prototype found for 'sgn'
+game.c(8119): Warning! W301: No prototype found for 'pushmove'
+game.c(8055): Warning! W301: No prototype found for 'getzrange'
+game.c(8576): Warning! W301: No prototype found for 'deletesprite'

@@ -1,0 +1,2 @@
+FIL actors.obj,animlib.obj,config.obj,game.obj,gamedef.obj,global.obj,menues.obj,player.obj,premap.obj,rts.obj,sector.obj,sounds.obj,a.obj,cache1d.obj,engine.obj,mmulti.obj
+LIBR audio_wf.lib,butwcd4.lib,mact\mact386.lib

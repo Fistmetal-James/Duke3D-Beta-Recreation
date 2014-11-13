@@ -1,0 +1,43 @@
+actors.c(610): Warning! W202: Symbol 'a' has been defined, but not referenced
+actors.c(996): Warning! W202: Symbol 'k' has been defined, but not referenced
+actors.c(1277): Warning! W302: Expression is only useful for its side effects
+actors.c(1553): Warning! W302: Expression is only useful for its side effects
+actors.c(1648): Warning! W302: Expression is only useful for its side effects
+actors.c(1499): Warning! W202: Symbol 'nextk' has been defined, but not referenced
+actors.c(1499): Warning! W202: Symbol 'q' has been defined, but not referenced
+actors.c(1500): Warning! W202: Symbol 'y1' has been defined, but not referenced
+actors.c(1500): Warning! W202: Symbol 'x1' has been defined, but not referenced
+actors.c(2436): Warning! W202: Symbol 'l' has been defined, but not referenced
+actors.c(2435): Warning! W202: Symbol 'tempsect' has been defined, but not referenced
+actors.c(2436): Warning! W202: Symbol 'y1' has been defined, but not referenced
+actors.c(2436): Warning! W202: Symbol 'x1' has been defined, but not referenced
+actors.c(2781): Warning! W202: Symbol 'nextk' has been defined, but not referenced
+actors.c(4379): Warning! W202: Symbol 'k' has been defined, but not referenced
+actors.c(74): Warning! W301: No prototype found for 'mulscale16'
+actors.c(486): Warning! W301: No prototype found for 'krand'
+actors.c(525): Warning! W301: No prototype found for 'getangle'
+actors.c(476): Warning! W301: No prototype found for 'updatesector'
+actors.c(477): Warning! W301: No prototype found for 'cansee'
+actors.c(451): Warning! W301: No prototype found for 'klabs'
+actors.c(682): Warning! W301: No prototype found for 'changespritesect'
+actors.c(637): Warning! W301: No prototype found for 'clipmove'
+actors.c(621): Warning! W301: No prototype found for 'setsprite'
+actors.c(765): Warning! W301: No prototype found for 'getflorzofslope'
+actors.c(883): Warning! W301: No prototype found for 'dragpoint'
+actors.c(878): Warning! W301: No prototype found for 'rotatepoint'
+actors.c(958): Warning! W301: No prototype found for 'changespritestat'
+actors.c(1128): Warning! W301: No prototype found for 'deletesprite'
+actors.c(2124): Warning! W301: No prototype found for 'loadtile'
+actors.c(2414): Warning! W301: No prototype found for 'mulscale14'
+actors.c(2400): Warning! W301: No prototype found for 'mulscale10'
+actors.c(2429): Warning! W301: No prototype found for 'ksqrt'
+actors.c(2422): Warning! W301: No prototype found for 'divscale17'
+actors.c(2429): Warning! W301: No prototype found for 'dmulscale8'
+actors.c(2545): Warning! W301: No prototype found for 'FindDistance2D'
+actors.c(2893): Warning! W301: No prototype found for 'clearsoundlocks'
+actors.c(2476): Warning! W301: No prototype found for 'ksgn'
+actors.c(3470): Warning! W301: No prototype found for 'sgn'
+actors.c(4628): Warning! W301: No prototype found for 'getceilzofslope'
+actors.c(6840): Warning! W301: No prototype found for 'mulscale12'
+actors.c(5876): Warning! W301: No prototype found for 'clipinsidebox'
+actors.c(7133): Warning! W301: No prototype found for 'alignflorslope'

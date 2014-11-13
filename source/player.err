@@ -1,0 +1,37 @@
+player.c(55): Warning! W202: Symbol 'i' has been defined, but not referenced
+player.c(55): Warning! W202: Symbol 'damage_source' has been defined, but not referenced
+player.c(1214): Warning! W202: Symbol 'i' has been defined, but not referenced
+player.c(1292): Warning! W202: Symbol 'y1' has been defined, but not referenced
+player.c(1292): Warning! W202: Symbol 'x2' has been defined, but not referenced
+player.c(1292): Warning! W202: Symbol 'x1' has been defined, but not referenced
+player.c(2022): Warning! W202: Symbol 'i' has been defined, but not referenced
+player.c(2212): Warning! W202: Symbol 'j' has been defined, but not referenced
+player.c(67): Warning! W301: No prototype found for 'krand'
+player.c(118): Warning! W301: No prototype found for 'klabs'
+player.c(146): Warning! W301: No prototype found for 'hitscan'
+player.c(151): Warning! W301: No prototype found for 'FindDistance2D'
+player.c(126): Warning! W301: No prototype found for 'updatesector'
+player.c(280): Warning! W301: No prototype found for 'scale'
+player.c(284): Warning! W301: No prototype found for 'cansee'
+player.c(276): Warning! W301: No prototype found for 'mulscale'
+player.c(1125): Warning! W301: No prototype found for 'rotatesprite'
+player.c(368): Warning! W301: No prototype found for 'getangle'
+player.c(420): Warning! W301: No prototype found for 'setsprite'
+player.c(2004): Warning! W301: No prototype found for 'mulscale9'
+player.c(1659): Warning! W301: No prototype found for 'sgn'
+player.c(2292): Warning! W301: No prototype found for 'mulscale16'
+player.c(3207): Warning! W301: No prototype found for 'changespritesect'
+player.c(2549): Warning! W301: No prototype found for 'clipmove'
+player.c(2395): Warning! W301: No prototype found for 'clearsoundlocks'
+player.c(2647): Warning! W301: No prototype found for 'ksqrt'
+player.c(2566): Warning! W301: No prototype found for 'pushmove'
+player.c(3391): Warning! W301: No prototype found for 'deletesprite'
+player.c(2270): Warning! W301: No prototype found for 'getceilzofslope'
+player.c(2265): Warning! W301: No prototype found for 'getzrange'
+player.c(2482): Warning! W301: No prototype found for 'testcallback'
+player.c(2267): Warning! W301: No prototype found for 'getflorzofslope'
+player.c(2625): Warning! W301: No prototype found for 'ksgn'
+player.c(4047): Warning! W301: No prototype found for 'mulscale17'
+player.c(4052): Warning! W301: No prototype found for 'mulscale14'
+player.c(4136): Warning! W301: No prototype found for 'clearbufbyte'
+player.c(4042): Warning! W301: No prototype found for 'tmulscale11'

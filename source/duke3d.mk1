@@ -1,0 +1,87 @@
+!define BLANK ""
+c:\source\source\actors.obj : c:\source\source\actors.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 actors.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\animlib.obj : c:\source\source\animlib.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 animlib.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\config.obj : c:\source\source\config.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 config.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\game.obj : c:\source\source\game.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 game.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\gamedef.obj : c:\source\source\gamedef.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 gamedef.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\global.obj : c:\source\source\global.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 global.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\menues.obj : c:\source\source\menues.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 menues.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\player.obj : c:\source\source\player.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 player.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\premap.obj : c:\source\source\premap.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 premap.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\rts.obj : c:\source\source\rts.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 rts.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\sector.obj : c:\source\source\sector.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 sector.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\sounds.obj : c:\source\source\sounds.c .AUTODEPEND
+ @c:
+ cd c:\source\source
+ *wcc386 sounds.c -i=C:\WATCOM\h -w4 -e25 -zq -otexan -5r -bt=dos -mf
+
+c:\source\source\duke3d.exe : c:\source\source\actors.obj c:\source\source\a&
+nimlib.obj c:\source\source\config.obj c:\source\source\game.obj c:\source\s&
+ource\gamedef.obj c:\source\source\global.obj c:\source\source\menues.obj c:&
+\source\source\player.obj c:\source\source\premap.obj c:\source\source\rts.o&
+bj c:\source\source\sector.obj c:\source\source\sounds.obj c:\source\source\&
+_animlib.h c:\source\source\_functio.h c:\source\source\_rts.h c:\source\sou&
+rce\animlib.h c:\source\source\build.h c:\source\source\config.h c:\source\s&
+ource\control.h c:\source\source\develop.h c:\source\source\duke3d.h c:\sour&
+ce\source\file_lib.h c:\source\source\funct.h c:\source\source\function.h c:&
+\source\source\fx_man.h c:\source\source\gamedefs.h c:\source\source\keyboar&
+d.h c:\source\source\mouse.h c:\source\source\music.h c:\source\source\names&
+.h c:\source\source\pragmas.h c:\source\source\rts.h c:\source\source\scripl&
+ib.h c:\source\source\sndcards.h c:\source\source\soundefs.h c:\source\sourc&
+e\sounds.h c:\source\source\task_man.h c:\source\source\types.h c:\source\so&
+urce\util_lib.h c:\source\source\audio_wf.lib c:\source\source\butwcd4.lib c&
+:\source\source\mact\mact386.lib c:\source\source\a.obj c:\source\source\cac&
+he1d.obj c:\source\source\engine.obj c:\source\source\mmulti.obj .AUTODEPEND
+ @c:
+ cd c:\source\source
+ @%write duke3d.lk1 FIL actors.obj,animlib.obj,config.obj,game.obj,gamedef.o&
+bj,global.obj,menues.obj,player.obj,premap.obj,rts.obj,sector.obj,sounds.obj&
+,a.obj,cache1d.obj,engine.obj,mmulti.obj
+ @%append duke3d.lk1 LIBR audio_wf.lib,butwcd4.lib,mact\mact386.lib
+ *wlink name duke3d SYS dos4g op inc op m op st=90k op maxe=25 op u op q op &
+symf @duke3d.lk1
+
